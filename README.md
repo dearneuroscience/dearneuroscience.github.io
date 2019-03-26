@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Dear Neuroscience
 
-You can use the [editor on GitHub](https://github.com/dearneuroscience/dearneuroscience.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "How can your daily life influence and inspire neuroscience research? And how can neuroscience research improve and inform your daily life?" Changing our tactics as a neuroscience community in this way allows us to **harness the many lifetimes of intimate, personal experience with brains that every living person has developed while trying to navigate a complex and highly interconnected society**. This intuition for how brains work "in the real world" is an enormously valuable perspective that is difficult to access in a traditional neuroscience laboratory. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**We hope to access this "beyond the lab" perspective through the Dear Neuroscience events**. A fundamental goal of each event is to generate a list of testable hypotheses which can guide or expand existing research projects, or motivate new research programmes based on well-documented interest and/or robust anecdotal evidence. We also hope to connect potential collaborators who are looking for a **community of researchers eager to engage in broad topics of study that require expertise from a variety of disciplines**. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dearneuroscience/dearneuroscience.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Dear Neuroscience" is funded by the UCL Train and Engage Programme, and supported by the Sainsbury Wellcome Centre for Neural Circuits and Behaviour. 
