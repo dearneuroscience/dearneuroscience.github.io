@@ -1,0 +1,7 @@
+# Dear Neuroscience
+
+"Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "How can your daily life influence and inspire neuroscience research? And how can neuroscience research improve and inform your daily life?" Changing our tactics as a neuroscience community in this way allows us to **harness the many lifetimes of intimate, personal experience with brains that every living person has developed while trying to navigate a complex and highly interconnected society**. This intuition for how brains work "in the real world" is an enormously valuable perspective that is difficult to access in a traditional neuroscience laboratory. 
+
+**We hope to access this "beyond the lab" perspective through the Dear Neuroscience events**. A fundamental goal of each event is to generate a list of testable hypotheses which can guide or expand existing research projects, or motivate new research programmes based on well-documented interest and/or robust anecdotal evidence. We also hope to connect potential collaborators who are looking for a **community of researchers eager to engage in broad topics of study that require expertise from a variety of disciplines**. 
+
+"Dear Neuroscience" is funded by the UCL Train and Engage Programme, and supported by the Sainsbury Wellcome Centre for Neural Circuits and Behaviour. 
